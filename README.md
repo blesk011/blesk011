@@ -13,14 +13,12 @@
 - Shopping Mall Web Project
 - Java Ide Compiler Project
 
-### ⚡ Awards  
----
-- 네이버 AI 버닝데이, 1등
-
 ### 🔭 Study  
 ---
 - 
 
+### ⚡ Awards  
+---
+- 네이버 AI 버닝데이, 1등
 
 <div align=center>
-
