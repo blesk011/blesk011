@@ -3,7 +3,7 @@
 
 ### 🌱 Projects
 ---
-- Multicast Routing Optimization with Deep Reinfoccement Learning
+- Multicast Routing Tree Optimization with Deep Reinfoccement Learning
 
 ### ⚡ Awards  
 ---
