@@ -4,9 +4,9 @@
 ### 🌱 Projects
 ---
 - [Multicast Routing Tree Optimization with Deep Reinfoccement Learning](https://github.com/blesk011/multicast-routing-tree-optimization-deep-reinforcement-learning)
-- [Steiner Tree Problem]
 - [BTS : Best Translation Service(naver-ai-burning-day)](https://github.com/blesk011/naver-ai-burning-day-2020)
 - [Pacemaker Web Project](https://github.com/blesk011/pacemaker-django)
+- [Steiner Tree Problem](https://github.com/blesk011/steiner-tree-problem)
 - [Word Game Project](https://github.com/blesk011/WordGame)
 - [Animal SNS Web Project](https://github.com/blesk011/ANIMAL)
 - [Shopping Mall Web Project](https://github.com/blesk011/SoftwareSE_WebProject)
@@ -14,7 +14,7 @@
 
 ### 🔭 Study  
 ---
-- [algorithm study for coding test]()
+- [algorithm study for coding test](https://github.com/blesk011/coding-test-study)
 - 
 
 ### ⚡ Awards  
