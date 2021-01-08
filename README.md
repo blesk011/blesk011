@@ -14,7 +14,8 @@
 ### 🔭 Study  
 ---
 - [algorithm study for coding test](https://github.com/blesk011/coding-test-study)
-- 
+- [deep Reinforcement Learning](https://github.com/blesk011/study-for-deep-reinforcement-learning)
+- [image preprocessing](https://github.com/blesk011/image-preprocessing-python)
 
 ### ⚡ Awards  
 ---
