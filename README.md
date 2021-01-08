@@ -10,7 +10,6 @@
 - [Word Game Project](https://github.com/blesk011/WordGame)
 - [Animal SNS Web Project](https://github.com/blesk011/ANIMAL)
 - [Shopping Mall Web Project](https://github.com/blesk011/SoftwareSE_WebProject)
-- [Java Ide Compiler Project]
 
 ### 🔭 Study  
 ---
