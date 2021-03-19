@@ -5,7 +5,7 @@
 ---
 &nbsp;&nbsp;**Reinforcement Learning**  
 &nbsp;&nbsp;&nbsp;&nbsp;[Multicast Routing Tree Optimization with Deep Reinfoccement Learning](https://github.com/blesk011/multicast-routing-tree-optimization-deep-reinforcement-leanring)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Othello-RL-Game](https://github.com/blesk011/Othello-RL-Game)  
+\\<!--- &nbsp;&nbsp;&nbsp;&nbsp;[Othello-RL-Game](https://github.com/blesk011/Othello-RL-Game)  -->
 &nbsp;&nbsp;**Web**  
 &nbsp;&nbsp;&nbsp;&nbsp;[BTS : Best Translation Service(naver-ai-burning-day)](https://github.com/blesk011/naver-ai-burning-day-2020)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Pacemaker Web Project](https://github.com/blesk011/pacemaker-django)  
@@ -19,7 +19,7 @@
 ### 🔭 Study  
 ---
 - [algorithm study for coding test](https://github.com/blesk011/coding-test-study)
-- [Deep Reinforcement Learning](https://github.com/blesk011/study-for-deep-reinforcement-learning)
+<!-- - [Deep Reinforcement Learning](https://github.com/blesk011/study-for-deep-reinforcement-learning) -->
 - [image preprocessing](https://github.com/blesk011/image-preprocessing-python)
 
 ### ⚡ Awards  
